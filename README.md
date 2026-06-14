@@ -1,4 +1,4 @@
-<img width="492" height="697" alt="image" src="https://github.com/user-attachments/assets/f7a995e8-dfd6-47c8-8c0c-1a1bb66bcc30" />NLP Transformer From Scratch
+NLP Transformer From Scratch
 
 This project implements a complete Transformer architecture from scratch using Python for Natural Language Processing (NLP) tasks. The implementation includes all major components of the original Transformer model, such as embeddings, positional encoding, encoder layers, decoder layers, multi-head attention, and inference.
 
